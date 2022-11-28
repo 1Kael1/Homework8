@@ -1,0 +1,15 @@
+D:\!!!!!!!!!!!\С#\Homework8\Task4\bin\Debug\net6.0\Task4.exe
+D:\!!!!!!!!!!!\С#\Homework8\Task4\bin\Debug\net6.0\Task4.deps.json
+D:\!!!!!!!!!!!\С#\Homework8\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+D:\!!!!!!!!!!!\С#\Homework8\Task4\bin\Debug\net6.0\Task4.dll
+D:\!!!!!!!!!!!\С#\Homework8\Task4\bin\Debug\net6.0\Task4.pdb
+D:\!!!!!!!!!!!\С#\Homework8\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+D:\!!!!!!!!!!!\С#\Homework8\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\!!!!!!!!!!!\С#\Homework8\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+D:\!!!!!!!!!!!\С#\Homework8\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+D:\!!!!!!!!!!!\С#\Homework8\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+D:\!!!!!!!!!!!\С#\Homework8\Task4\obj\Debug\net6.0\Task4.dll
+D:\!!!!!!!!!!!\С#\Homework8\Task4\obj\Debug\net6.0\refint\Task4.dll
+D:\!!!!!!!!!!!\С#\Homework8\Task4\obj\Debug\net6.0\Task4.pdb
+D:\!!!!!!!!!!!\С#\Homework8\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+D:\!!!!!!!!!!!\С#\Homework8\Task4\obj\Debug\net6.0\ref\Task4.dll
